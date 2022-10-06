@@ -4,7 +4,7 @@ fun main() {
 
     lamaParkir = 72
 
-    //aturan bayar parkir
+    //rule bayar parkir
     val tarifDasar = 1.0
     val tarifBerikutnya = 0.5
     val maxTarifPerHari = 15

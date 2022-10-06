@@ -5,6 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a09add7b-7814-4db3-9a17-eaa8d876061c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Function.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Iteration.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oop/GetterSetter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oop/Hewan.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oop/Inheritance.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oop/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oop/Mobil.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Latihan.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Latihan.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +46,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -58,23 +68,36 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;kotlin&quot;
+    ]
   }
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\POLITEKNIK NEGERI BANDUNG\kelasKotlin\src\main\kotlin\oop" />
       <recent name="G:\POLITEKNIK NEGERI BANDUNG\kelasKotlin\src\main\kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.LatihanKt">
-    <configuration name="ConditionalKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConditionalKt" />
+  <component name="RunManager" selected="Kotlin.MainKt">
+    <configuration name="FunctionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FunctionKt" />
       <module name="kelasKotlin.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataTypeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataTypeKt" />
+    <configuration name="IterationKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IterationKt" />
+      <module name="kelasKotlin.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LatihanAbyanKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LatihanAbyanKt" />
       <module name="kelasKotlin.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -96,10 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.LatihanKt" />
-        <item itemvalue="Kotlin.ConditionalKt" />
-        <item itemvalue="Kotlin.DataTypeKt" />
         <item itemvalue="Kotlin.MainKt" />
+        <item itemvalue="Kotlin.FunctionKt" />
+        <item itemvalue="Kotlin.IterationKt" />
+        <item itemvalue="Kotlin.LatihanKt" />
+        <item itemvalue="Kotlin.LatihanAbyanKt" />
       </list>
     </recent_temporary>
   </component>
@@ -124,5 +148,19 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/Iteration.kt</url>
+          <properties method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
